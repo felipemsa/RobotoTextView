@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="robotoTypefaces">
+        <attr name="type">
+            <enum name="thin" value="0" />
+            <enum name="light" value="1" />
+            <enum name="regular" value="2" />
+            <enum name="medium" value="3" />
+            <enum name="bold" value="4" />
+            <enum name="black" value="5" />
+            <enum name="cond_light" value="6" />
+            <enum name="cond_regular" value="7" />
+            <enum name="cond_bold" value="8" />
+        </attr>
+    </declare-styleable>
+
+</resources>
